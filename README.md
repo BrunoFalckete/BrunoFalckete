@@ -2,8 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/BrunoFalckete">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunoFalckete&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFalckete&layout=compact&langs_count=7&theme=dark"/>
+    <img height="280" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFalckete&layout=compact&langs_count=7&theme=dark"/><br/>
+    <img height="250" width="450" src="https://github-readme-stats.vercel.app/api?username=BrunoFalckete&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
+    <img height="250" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoFalckete&theme=dark&" alt="Bruno Falckete" /> <br/>
+  </a>
 </div>
   
  ##
