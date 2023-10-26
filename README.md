@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/BrunoFalckete">
     <img src="https://github-readme-stats.vercel.app/api?username=BrunoFalckete&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="450" height="250" alt="Estatísticas do GitHub de Bruno Falckete" /><br>
-    <img src="https://github-readme-top-langs.vercel.app/api?username=BrunoFalckete&layout=compact&langs_count=7&theme=dark" width="500" height="280" alt="Linguagens mais usadas por Bruno Falckete" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFalckete&layout=compact&langs_count=7&theme=dark" width="500" height="280" alt="Linguagens mais usadas por Bruno Falckete" /><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoFalckete&theme=dark" width="450" height="250" alt="Histórico de commits de Bruno Falckete" /><br>
   </a>
 </div>
